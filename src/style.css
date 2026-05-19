@@ -728,7 +728,7 @@ html, html * {
     align-items: center;
     justify-content: center;
 
-    transform: translate(-20px, -20px); /* optical offset for asymmetric DB monogram */
+    transform: translate(0px, -20px); /* optical offset for asymmetric DB monogram */
 }
 
 .loader-logo {
